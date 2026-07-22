@@ -175,6 +175,8 @@ The report contains:
 - Future Opportunities
 - AI Integration in the Analytics Workflow
 
+---
+
 # 💼 Skills Demonstrated
 
 - Data Cleaning
