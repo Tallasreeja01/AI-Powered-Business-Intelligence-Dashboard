@@ -160,6 +160,21 @@ Project screenshots are available in the **Images** folder.
 
 ---
 
+# 📄 Project Report
+
+A detailed AI-assisted business analysis report is included in this repository.
+
+**AI Report:** `Reports/AI_Insights_Report.pdf`
+
+The report contains:
+
+- Executive Summary
+- AI Business Insights
+- Root Cause Analysis
+- Business Recommendations
+- Future Opportunities
+- AI Integration in the Analytics Workflow
+
 # 💼 Skills Demonstrated
 
 - Data Cleaning
