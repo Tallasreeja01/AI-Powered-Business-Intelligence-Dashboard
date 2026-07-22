@@ -164,7 +164,7 @@ Project screenshots are available in the **Images** folder.
 
 A detailed AI-assisted business analysis report is included in this repository.
 
-**AI Report:** `Reports/AI_Insights_Report.pdf`
+**AI Report:** `Reports/AI_Report.pdf`
 
 The report contains:
 
